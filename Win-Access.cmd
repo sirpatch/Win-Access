@@ -3,6 +3,7 @@ title Win Access V0.2
 color 0a
 :START
     cls
+    echo !! MAKE SURE SCRIPT IS RUNNING WITH ADMINISTRATOR PRIVILEGES !!
     echo !! The developer is not responsible for any damage caused by the use of this program !!
     echo !! USE AT OWN RISK !!
     echo .
