@@ -543,7 +543,8 @@ color 0a
     cls
     echo Thanks for using my program!
     echo Program made by @sirpatch
-    echo https://linktr.ee/sirpatch
+    echo Check my other programs:
+    echo https://github.com/sirpatch
     timeout 15
     cls
     echo Exiting...
